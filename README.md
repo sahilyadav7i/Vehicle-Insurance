@@ -1,2 +1,2 @@
 # Vehicle-Insurence
-Vehicle insurance plays a vital role in contemporary life, offering financial security and peace of mind to both individuals and businesses. 
+Vehicle insurance plays a vital role in contemporary life, offering financial security and peace of mind to both individuals and businesses.Grasping the factors that impact insurance claims is crucial for insurance companies to manage risk effectively and deliver the best coverage to their clients. In this exploratory data analysis (EDA) project, we examine a dataset with detailed vehicle insurance information, with the goal of uncovering valuable insights to guide decision-making within the insurance industry.
